@@ -4,3 +4,5 @@
 *.jar
 *.war
 *.ear
+/PruebaJava/nbproject/private/
+/PruebaJava/build/
